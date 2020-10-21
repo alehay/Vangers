@@ -1099,6 +1099,8 @@ struct ActionDispatcher : UnitList
 };
 
 
+ const char * const INSETCT_MODEL_NAME [] = { "Bug", "Middle" , "Big", "Boss"};
+
 //zNfo beeb price
 
 const int MAX_INSECT_TYPE = 3;
