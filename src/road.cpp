@@ -1619,6 +1619,8 @@ void KeyCenter(SDL_Event *key)
 			if (mod&KMOD_CTRL) {
 				curGMap -> prmFlag ^= PRM_FPS;
 			}
+		//case SDL_SCANCODE_H:
+
 #ifdef _DEBUG
 			else
 				message_mode++;
