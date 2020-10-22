@@ -124,6 +124,8 @@ enum EFFECT_VALUE {
 	EFF_DAMAGE,
 	EFF_SHOT_RAFFA,
 	
+	EFF_HORN,
+
 	EFF_MAX
 	};
 
@@ -313,6 +315,7 @@ const int SoundMotor = 0x00000010;
 
 #define	SOUND_BEEP()			  StartEFFECT(EFF_BEEP);
 #define	SOUND_DAMAGE()			  StartEFFECT(EFF_DAMAGE);
+#define SOUND_HORN()			  StartEFFECT(EFF_HORN)
 
 void LastSoundQuant(void);
 void LastStartWTRACK(int TRACK);

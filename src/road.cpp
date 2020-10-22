@@ -1614,12 +1614,17 @@ void KeyCenter(SDL_Event *key)
 //			shotFlush();
 //			break;
 #endif
-		case SDL_SCANCODE_F:
+		case SDL_SCANCODE_F:{
 			mod = SDL_GetModState();
 			if (mod&KMOD_CTRL) {
 				curGMap -> prmFlag ^= PRM_FPS;
 			}
-		//case SDL_SCANCODE_H:
+		}
+		case SDL_SCANCODE_H: {
+			SOUND_HORN();
+			//SOUND_BEEP();
+			break;
+		}
 
 #ifdef _DEBUG
 			else
