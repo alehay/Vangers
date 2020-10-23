@@ -1574,7 +1574,7 @@ MaxSize 101
 //Beeb
 ModelNum 0
 Name	resource/m3d/animated/a1.a3d
-Size	20
+Size	9
 NameID	Bug
 
 //Cirtainer
@@ -1652,13 +1652,13 @@ NameID	AmmoMissile
 //CrustestCannon
 ModelNum 13
 Name	resource/m3d/weapon/w5.m3d
-Size	16
+Size	8
 NameID	Crustest
 
 //GhorbGear(Heavy)
 ModelNum 14
 Name	resource/m3d/weapon/w3h.m3d
-Size	14
+Size	6
 NameID	HeavyFireBall
 
 //GhorbGear(Light)
@@ -1670,7 +1670,7 @@ NameID	LightFireBall
 
 ModelNum 16
 Name	resource/m3d/weapon/w4.m3d
-Size	12
+Size	10
 NameID	JumpBug
 
 //MacHotine(Heavy)
@@ -1688,13 +1688,13 @@ NameID	LightLaser
 //Speetle(Heavy)
 ModelNum 19
 Name	resource/m3d/weapon/w1h.m3d
-Size	12
+Size	10
 NameID	HeavyMissile
 
 //Speetle(Light)
 ModelNum 20
 Name	resource/m3d/weapon/w1l.m3d
-Size	9
+Size	10
 NameID	LightMissile
 
 
@@ -1861,7 +1861,7 @@ NameID	Seed
 
 ModelNum 48
 Name resource/m3d/fauna/f1.m3d
-Size	10
+Size	20
 NameID	FishWarrior
 
 
@@ -2098,7 +2098,7 @@ NameID	Pipka
 //Tabutask & TIBUtask
 ModelNum 87
 Name resource/m3d/items/i40.m3d
-Size	5
+Size	12
 NameID	Tabutask
 
 //Zeefick & Sifik
@@ -2141,7 +2141,6 @@ ModelNum 94
 Name	resource/m3d/animated/BossSpider.a3d
 Size	50
 NameID	Boss
-
 
 
 NumMapPoint	200
