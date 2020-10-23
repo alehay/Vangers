@@ -1619,6 +1619,7 @@ void KeyCenter(SDL_Event *key)
 			if (mod&KMOD_CTRL) {
 				curGMap -> prmFlag ^= PRM_FPS;
 			}
+			break;
 		}
 		case SDL_SCANCODE_H: {
 			SOUND_HORN();
