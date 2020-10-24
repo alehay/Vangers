@@ -1,0 +1,40 @@
+MASH	atTractor	m3
+
+// Base params
+scale_size:		0.425943
+scale_bound:		0.8
+scale_box:		0.8
+z_offset_of_mass_center:		-40.260000
+
+// Car's params
+speed_factor:		0.5
+mobility_factor:		0.9
+
+// Devices params
+water_speed_factor:		0.5
+air_speed_factor:		0.5
+underground_speed_factor:		0.5
+
+// Ship's params
+k_archimedean:		0.467023
+k_water_traction:		1.32564
+k_water_rudder:		2.97916e-006
+
+// Grader's params
+TerraMoverSx:		1.
+TerraMoverSy:		0.907029
+TerraMoverSz:		0.556837
+
+// Defense
+FrontDefense:		600
+BackDefense:		600
+SideDefense:		300
+UpperDefense:		150
+LowerDefense:		50
+
+// Ram Power
+FrontRamPower:		600
+BackRamPower:		450
+SideRamPower:		1
+UpperRamPower:		1
+LowerRamPower:		1

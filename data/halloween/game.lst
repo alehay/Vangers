@@ -1652,25 +1652,25 @@ NameID	AmmoMissile
 //CrustestCannon
 ModelNum 13
 Name	resource/m3d/weapon/w5.m3d
-Size	8
+Size	16
 NameID	Crustest
 
 //GhorbGear(Heavy)
 ModelNum 14
 Name	resource/m3d/weapon/w3h.m3d
-Size	6
+Size	14
 NameID	HeavyFireBall
 
 //GhorbGear(Light)
 ModelNum 15
 Name	resource/m3d/weapon/w3l.m3d
-Size	9
+Size	19
 NameID	LightFireBall
 
 
 ModelNum 16
 Name	resource/m3d/weapon/w4.m3d
-Size	10
+Size	12
 NameID	JumpBug
 
 //MacHotine(Heavy)
@@ -1682,19 +1682,19 @@ NameID	HeavyLaser
 //MacHotine(Lihgt)
 ModelNum 18
 Name	resource/m3d/weapon/w2l.m3d
-Size	10
+Size	19
 NameID	LightLaser
 
 //Speetle(Heavy)
 ModelNum 19
 Name	resource/m3d/weapon/w1h.m3d
-Size	10
+Size	12
 NameID	HeavyMissile
 
 //Speetle(Light)
 ModelNum 20
 Name	resource/m3d/weapon/w1l.m3d
-Size	10
+Size	19
 NameID	LightMissile
 
 
@@ -1838,7 +1838,7 @@ NameID	DOCHOD
 
 ModelNum 44
 Name resource/m3d/fauna/f2.m3d
-Size	24
+Size	31
 NameID	SkyFarmer
 
 //AcidTank
@@ -1861,7 +1861,7 @@ NameID	Seed
 
 ModelNum 48
 Name resource/m3d/fauna/f1.m3d
-Size	20
+Size	10
 NameID	FishWarrior
 
 
@@ -2098,7 +2098,7 @@ NameID	Pipka
 //Tabutask & TIBUtask
 ModelNum 87
 Name resource/m3d/items/i40.m3d
-Size	12
+Size	5
 NameID	Tabutask
 
 //Zeefick & Sifik
